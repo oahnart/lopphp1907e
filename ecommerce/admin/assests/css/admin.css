@@ -1,0 +1,14 @@
+/*
+style chung
+ */
+.logo{
+    width: 100px;
+}
+
+/*login page*/
+.wrapper-login-page
+{
+    width: 400px;
+    margin: 50px auto;
+}
+/*end login page*/
